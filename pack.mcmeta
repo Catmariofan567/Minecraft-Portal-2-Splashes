@@ -1,0 +1,19 @@
+{
+  "pack": {
+    "pack_format": 46,
+    "supported_formats": {
+      "min_inclusive": 34,
+      "max_inclusive": 76
+    },
+    "description": [
+      {
+        "text": "Portal 2 Menu Splashes",
+        "color": "white"
+      },
+      {
+        "text": "Portal 2 Menu Splashes",
+        "color": "gray"
+      }
+    ]
+  }
+}
