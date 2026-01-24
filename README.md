@@ -15,7 +15,7 @@ A Minecraft resource pack that replaces vanilla splash texts with portal 2 refer
 
 ## Compatibility:
 
-- Works on Minecraft Java Edition 1.21x
+- Works on Minecraft Java Edition and Bedrock Edition 1.21x
 - Works with mods like Sodium and OptiFine
 - On Minecraft versions 1.21.9+, the mod shows as incompatible even though it works fine
 - The game must be restarted for changes to take effect.
